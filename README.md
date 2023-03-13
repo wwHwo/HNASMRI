@@ -1,4 +1,8 @@
 # HNASMRI
+This is the official implementation code for Hierarchical Neural Architecture Search with Adaptive Global-Local Feature Learning for Magnetic Resonance Image Reconstruction
+
+## How to use
+---
 Data Preprocessing:
 Data used in this work are publicly available from the IXI-T1,single channle of Calgary Campinas and The MICCAI 2013 grand challenge. 
 
